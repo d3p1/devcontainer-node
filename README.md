@@ -9,7 +9,7 @@
 
 ## Introduction
 
-A personal [Node.js](https://nodejs.org/) image for [development container](https://containers.dev/).
+A personal [Node.js](https://nodejs.org/) image for [development containers](https://containers.dev/).
 
 ## Changelog
 
