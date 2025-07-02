@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/d3p1/devcontainer-node/compare/v1.1.0...v1.2.0) (2025-07-02)
+
+
+### Features
+
+* add Docker images for Node.js (v22) [[#1](https://github.com/d3p1/devcontainer-node/issues/1)] ([11e5a57](https://github.com/d3p1/devcontainer-node/commit/11e5a5746e3e3923f6f4f111c6d57b701e842ba4))
+
 # [1.1.0](https://github.com/d3p1/devcontainer-node/compare/v1.0.0...v1.1.0) (2025-02-04)
 
 
